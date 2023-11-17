@@ -38,7 +38,7 @@ console.properties
 /Libs/
 /.settings/
 .svn/
-/.DS_Store
+/.DS_Store*
 /bin/
 /Libs/
 /.settings/
