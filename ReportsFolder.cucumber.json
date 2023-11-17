@@ -1,0 +1,140 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Direct to page CURA Hospital",
+        "description": "",
+        "id": "bdd1-2-direct-to-cura-hospital;direct-to-page-cura-hospital",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7588497143,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User buka browser",
+            "match": {
+              "location": "DirectToCURAHospital.User_buka_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 20903214012,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User input url website CURA Hospital",
+            "match": {
+              "location": "DirectToCURAHospital.User_input_url_website_CURA_Hospital()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 387478506,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User akan ditampilkan halaman CURA Hospital",
+            "match": {
+              "location": "DirectToCURAHospital.User_akan_ditampilkan_halaman_CURA_Hospital()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1287114177,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User akan ditampilkan button make appointment di halaman beranda",
+            "match": {
+              "location": "DirectToCURAHospital.User_akan_ditampilkan_button_make_appointment_di_halaman_beranda()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "BDD1-2 Direct to CURA Hospital",
+    "description": "",
+    "id": "bdd1-2-direct-to-cura-hospital",
+    "keyword": "Feature",
+    "uri": "Include/features/BDD1-2 Direct to CURA Hospital.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Check login is successfull with valid credential",
+        "description": "",
+        "id": "test-login-functionality;check-login-is-successfull-with-valid-credential",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 63619779321,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User akses web dan ingin login",
+            "match": {
+              "location": "LoginValidCred.User_akses_web_dan_ingin_login()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4971553916,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User input username dan password yang valid",
+            "match": {
+              "location": "LoginValidCred.User_input_username_dan_password_yang_valid()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12481292207,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Klik button login",
+            "match": {
+              "location": "LoginValidCred.Klik_button_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1821788646,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User berhasil login",
+            "match": {
+              "location": "LoginValidCred.User_berhasil_login()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Login Functionality",
+    "description": "",
+    "id": "test-login-functionality",
+    "keyword": "Feature",
+    "uri": "Include/features/login.feature",
+    "tags": []
+  }
+]

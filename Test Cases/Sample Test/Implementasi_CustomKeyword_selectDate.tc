@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Implementasi_CustomKeyword_selectDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a9434c7-cb51-48b7-934c-97702bd94867</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ffe5edf-2842-4ba3-8360-73ebf46e56ce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'01 Oct 2023'</defaultValue>
+      <description></description>
+      <id>4ffe5edf-2842-4ba3-8360-73ebf46e56ce</id>
+      <masked>false</masked>
+      <name>inputDate</name>
+   </variable>
+</TestCaseEntity>

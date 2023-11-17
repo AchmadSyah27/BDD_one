@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testMoservice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3483db09-eb4e-4d81-a662-6f5e8c3639ef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31a7c8de-02e5-4a54-805d-df35a1039e2b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>840a28bd-6d2d-4453-8020-ac5bde6f9f06</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d299f6e-f4a5-4f44-bd70-9a62f5c3b215</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://dev.moservice.id/'</defaultValue>
+      <description></description>
+      <id>31a7c8de-02e5-4a54-805d-df35a1039e2b</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Qwerty999!'</defaultValue>
+      <description></description>
+      <id>840a28bd-6d2d-4453-8020-ac5bde6f9f06</id>
+      <masked>false</masked>
+      <name>passBaru</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://dev.moservice.id/register'</defaultValue>
+      <description></description>
+      <id>4d299f6e-f4a5-4f44-bd70-9a62f5c3b215</id>
+      <masked>false</masked>
+      <name>urlWeb</name>
+   </variable>
+</TestCaseEntity>

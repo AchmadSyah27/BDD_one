@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>UAT_Ilham</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://uat.momobil.id'</initValue>
+      <name>urlMomobil</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[]</initValue>
+      <name>G_run_testrail_tc_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[]</initValue>
+      <name>G_run_testrail_tc_status</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'7287'</initValue>
+      <name>G_testrail_run_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>TestCaseName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nama Device yang terbaca di katalon</description>
+      <initValue>'emulator-5554'</initValue>
+      <name>DeviceNameCaps</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Path Appium</description>
+      <initValue>'appium'</initValue>
+      <name>AppiumPath</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
