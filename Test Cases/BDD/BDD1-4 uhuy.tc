@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: uhuy
+Description: </description>
+   <name>BDD1-4 uhuy</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10033&quot;:&quot;Feature: \n\nScenario: Direct to page CURA Hospital\n\n    Given User input  cucumbers\n    When User input url website CURA Hospital\n    And User akan ditampilkan button make appointment di halaman beranda\n    Then User akan ditampilkan halaman CURA Hospital&quot;,&quot;customfield_10000&quot;:&quot;{}&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0000v:&quot;},&quot;status&quot;:{&quot;id&quot;:10003,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://andriantest.atlassian.net/&quot;,&quot;self&quot;:&quot;https://andriantest.atlassian.net/rest/api/2/status/10003&quot;,&quot;name&quot;:&quot;Backlog&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://andriantest.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;BDD1&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;bdd1&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;uhuy&quot;,&quot;description&quot;:&quot;&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;andrian.soedjadi18@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Andrian Soedjadi&quot;,&quot;self&quot;:&quot;https://andriantest.atlassian.net/rest/api/2/user?accountId\u003d712020%3Ac58df07e-a8b0-445f-a11a-776eb258a838&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;andrian.soedjadi18@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Andrian Soedjadi&quot;,&quot;self&quot;:&quot;https://andriantest.atlassian.net/rest/api/2/user?accountId\u003d712020%3Ac58df07e-a8b0-445f-a11a-776eb258a838&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://andriantest.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://andriantest.atlassian.net/rest/api/2/issue/BDD1-4/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://andriantest.atlassian.net/rest/api/2/issue/10004&quot;,&quot;key&quot;:&quot;BDD1-4&quot;,&quot;id&quot;:10004}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>Feature: 
+
+Scenario: Direct to page CURA Hospital
+
+    Given User input  cucumbers
+    When User input url website CURA Hospital
+    And User akan ditampilkan button make appointment di halaman beranda
+    Then User akan ditampilkan halaman CURA Hospital</comment>
+   <testCaseGuid>ed95395e-f56f-4d66-86f5-d450fba6b26c</testCaseGuid>
+</TestCaseEntity>
